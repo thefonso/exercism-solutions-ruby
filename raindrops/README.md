@@ -45,6 +45,8 @@ To include color from the command line:
 
     ruby -r minitest/pride hello_world_test.rb
 
+## HINT
+solve test for (1)(3)(8)(35) the rest fall into place.
 
 ## Source
 
